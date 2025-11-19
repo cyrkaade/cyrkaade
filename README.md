@@ -2,12 +2,10 @@
 
 
 ###  
-### 🧠 About Me
-- 🔭 Working on **AI Safety**, automated red-teaming, and RL-based evaluation systems  
-- 🤖 Strong background in **Machine Learning, Reinforcement Learning, and Deep Learning**  
-- 📈 Experienced in **time series forecasting**, econometrics, and investment analysis  
-- 🛠️ Daily tools: Python, PyTorch, TensorFlow, sklearn, pandas, numpy  
-- 🌍 Passionate about building scalable ML systems and research prototypes  
+### About Me
+- Working on AI Safety, automated red-teaming, and RL-based evaluation systems  
+- Strong background in Machine Learning, Reinforcement Learning, and Deep Learning 
+- Experienced in time series forecasting, econometrics, and investment analysis  
 
 ###
 
