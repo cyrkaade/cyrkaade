@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Arslan and I'm a Machine Learning & AI Safety researcher from Almaty 🇰🇿</h2>
 
+
+###  
+### 🧠 About Me
+- 🔭 Working on **AI Safety**, automated red-teaming, and RL-based evaluation systems  
+- 🤖 Strong background in **Machine Learning, Reinforcement Learning, and Deep Learning**  
+- 📈 Experienced in **time series forecasting**, econometrics, and investment analysis  
+- 🛠️ Daily tools: Python, PyTorch, TensorFlow, sklearn, pandas, numpy  
+- 🌍 Passionate about building scalable ML systems and research prototypes  
+
 ###
 
 <div align="center">
@@ -32,8 +41,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/arslan-akishev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ###
